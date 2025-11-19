@@ -1,5 +1,4 @@
-# Stephanie Danquah
-_Aspiring Data Scientist_  
+# Aspiring Data Scientist
 Technical Skills: **Python, SQL, Tableau, Excel, Pandas, NumPy, scikit-learn**
   
 
