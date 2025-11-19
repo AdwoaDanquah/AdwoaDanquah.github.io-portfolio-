@@ -1,8 +1,7 @@
 # Stephanie Danquah
 _Aspiring Data Scientist_  
 Technical Skills: **Python, SQL, Tableau, Excel, Pandas, NumPy, scikit-learn**
-
-![Profile Image](1758267652053.jpg)  
+  
 
 [LinkedIn](https://www.linkedin.com/in/stephanie-danquah-9a5435374/) • [GitHub](https://github.com/AdwoaDanquah) • [Email](mailto:Adanquah@albany.edu)
 
